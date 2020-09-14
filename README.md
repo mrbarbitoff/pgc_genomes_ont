@@ -1,4 +1,4 @@
-# Chromosome-level genome assembly and structural variant analysis of two laboratory yeast strains from the Peterhof Genetic Collection lineage
+# Chromosome-level genome assembly of yeast strains from the Peterhof Genetic Collection
 
 This repository contains scripts and data used during the genome analysis of PGC yeast strains. A brief description of the files is given below:
 
