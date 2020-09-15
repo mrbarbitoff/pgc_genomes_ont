@@ -9,3 +9,5 @@ This repository contains scripts and data used during the genome analysis of PGC
 `te_draw.R` scripts was used to prepare Figure 2.
 
 `ena_draw.R` scripts was used to prepare Figure 4E.
+
+`plot_aCGH` was used to prepare Figure S3.
